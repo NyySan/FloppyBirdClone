@@ -1,3 +1,13 @@
 # FloppyBirdClone
+## Here is some Update
+- A
+- B
+- C
 
-Blubb
+```bash
+neofetch
+```
+
+| 1 | 2 | 3 |
+| - | - | - |
+| + | * | = |
